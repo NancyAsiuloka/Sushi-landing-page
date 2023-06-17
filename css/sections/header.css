@@ -10,3 +10,8 @@
     position: relative;
     padding: 20px;
  }
+
+ .header__logo-overlay{
+    position: absolute;
+    inset: 0;
+ }
