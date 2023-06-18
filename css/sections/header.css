@@ -17,4 +17,5 @@
     width: 100%;
 
     background-color: var(--primary-color);
+    z-index: 1;
  }
