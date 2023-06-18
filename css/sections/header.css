@@ -14,4 +14,7 @@
  .header__logo-overlay{
     position: absolute;
     inset: 0;
+    width: 100%;
+
+    background-color: var(--primary-color);
  }
