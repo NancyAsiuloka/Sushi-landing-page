@@ -25,3 +25,9 @@
 
     color: #fff;
 }
+
+.header__menu, .header__menu-mobile {
+    padding: 20px;
+    flex: 1.2;
+    display: flex;
+}
