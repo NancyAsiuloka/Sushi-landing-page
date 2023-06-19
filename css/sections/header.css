@@ -36,3 +36,10 @@
 
     list-style: none;
 }
+
+.header__menu li{
+    font-weight: 500;
+    font-family: var(--plus-jakarta-sans);
+    color: var(--secondary-color);
+    font-size: ;
+}
