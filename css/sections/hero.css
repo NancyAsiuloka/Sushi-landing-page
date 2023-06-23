@@ -31,7 +31,7 @@
   .hero-image h2 {
     position: absolute;
     bottom: 0;
-    padding: ;
+    padding: 20px;
 
     font-family: var(--playfair-display);
     font-weight: 700;
