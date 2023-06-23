@@ -20,7 +20,7 @@
   }
 
   .hero-image__overlay {
-    /* position: absolute; */
+    position: absolute;
     inset: 0;
     width: 100%;
 
