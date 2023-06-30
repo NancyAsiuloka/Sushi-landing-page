@@ -84,7 +84,7 @@
     border-radius: 36px;
     min-width: 212px;
     outline: none;
-    /* border: none; */
+    border: none;
     background: var(--secondary-color);
 
     cursor: pointer;
