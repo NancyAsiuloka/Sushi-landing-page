@@ -108,7 +108,7 @@
     color: var(--black-200);
     font-family: var(--plus-jakarta-sans);
 
-    cursor: pointer;
+    /* cursor: pointer; */
   }
 
   .hero-content__play-button img {
