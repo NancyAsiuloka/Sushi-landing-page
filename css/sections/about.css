@@ -63,7 +63,7 @@
     font-family: var(--plus-jakarta-sans);
     font-weight: 500;
     font-size: 18px;
-    /* line-height: 23px; */
+    line-height: 23px;
 
     cursor: pointer;
   }
