@@ -168,7 +168,7 @@
   }
 
   .popular-foods__card.active-card {
-    /* background: #fff; */
+    background: #fff;
     min-width: 340px;
   }
 
