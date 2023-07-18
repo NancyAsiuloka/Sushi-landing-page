@@ -144,7 +144,7 @@
   .popular-foods__card-rating {
     display: flex;
     align-items: center;
-    gap: ;
+    gap: 8px;
   }
 
   .popular-foods__card-rating img {
