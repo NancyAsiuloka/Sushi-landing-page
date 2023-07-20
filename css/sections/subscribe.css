@@ -1,5 +1,5 @@
 .subscription {
-    padding: 64px;
+    /* padding: 64px; */
 
     background-color: var(--primary-color);
     background-image: url('../../assets/subscribe_bg.png');
