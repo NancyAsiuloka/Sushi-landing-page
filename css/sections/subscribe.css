@@ -12,7 +12,7 @@
   }
 
   .subscription h2 {
-    /* font-size: 88px; */
+    font-size: 88px;
     font-family: var(--playfair-display);
     font-weight: 600;
     line-height: 123px;
