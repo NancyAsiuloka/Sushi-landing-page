@@ -30,7 +30,7 @@
     font-family: var(--plus-jakarta-sans);
 
     text-transform: uppercase;
-    color: #fff;
+    /* color: #fff; */
   }
 
   .trending-sushi,
