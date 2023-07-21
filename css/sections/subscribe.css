@@ -22,7 +22,7 @@
   }
 
   .subscription p {
-    /* font-size: 18px; */
+    font-size: 18px;
     font-family: var(--plus-jakarta-sans);
     font-weight: 300;
     line-height: 36px;
