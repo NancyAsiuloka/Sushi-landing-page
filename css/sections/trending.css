@@ -118,7 +118,7 @@
   }
 
   /* Arrows */
-  .trending__arrow {
+  /* .trending__arrow {
     position: absolute;
     z-index: 1;
   }
@@ -130,7 +130,7 @@
   .trending__arrow-left {
     left: -2.5px;
     top: 12%;
-  }
+  } */
 
   .trending__arrow-left img,
   .trending__arrow-top img {
