@@ -51,12 +51,12 @@
     padding: 32px 64px;
   }
 
-  /* .trending__list {
+  .trending__list {
     list-style: none;
 
     flex-wrap: wrap;
     gap: 20px;
-  } */
+  }
 
   .trending__list li {
     flex: 1;
