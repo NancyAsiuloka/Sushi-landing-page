@@ -117,8 +117,8 @@
     object-fit: contain;
   }
 
-  Arrows */
-  /* .trending__arrow {
+  /* Arrows */
+  .trending__arrow {
     position: absolute;
     z-index: 1;
   }
